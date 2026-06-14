@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.6",
-    "notes":  "ZUWKI 0.1.6",
-    "pub_date":  "2026-06-14T16:19:36Z",
+    "version":  "0.1.7",
+    "notes":  "ZUWKI 0.1.7",
+    "pub_date":  "2026-06-14T16:52:10Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRi9TM1ZiVzJqcXI4ckxNMUM1Mmx5enR6VWRDY2o5OS90V0VpeUtCZ3VRNmFYZjBCREdkcnQrT054azF6SmJQM1U3Sjd0QWZXUVM5RVRKOXFKdzVxV1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDUzOTYzCWZpbGU6U3RyZWFtZXIgVGVhbSBIdWJfMC4xLjZfeDY0LXNldHVwLmV4ZQpBRDZKUWNQZGM5U3JKL0s5TDZMY1ZkTFNNYXBNenFGd016L1RSa2dMNWpuaE0yUEV6L3hLVjRvOTRha0ZGLzJIQUdVZGpCWmRoMk80SjE0K3d4c0FCdz09Cg==",
-                                             "url":  "https://github.com/zawkiel/streamer-team-hub-updates/releases/download/v0.1.6/Streamer.Team.Hub_0.1.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVmliZFo5S2ZkRjlhWmwwQld4Y0RGbERPZUJFZlVsd2RSaGo0MDZnVWtoOFM3MFhySmhxenV5MXRRU1Y1emFSaWZzWkdZSVFRR3ZReXYyL2FaUTFuWEhObnorQ2VlVkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDU1NzczCWZpbGU6U3RyZWFtZXIgVGVhbSBIdWJfMC4xLjdfeDY0LXNldHVwLmV4ZQplU281MkRxbDVybnlKZ01BcUFjSXdhMWxKTEcrSndZZWNjNFhpeXpLazZtSUI4T08vWngzemd2SFBKLzloRSszRHVKOUVMaThvaUxqZEVPNDZuRG1BZz09Cg==",
+                                             "url":  "https://github.com/zawkiel/streamer-team-hub-updates/releases/download/v0.1.7/Streamer.Team.Hub_0.1.7_x64-setup.exe"
                                          }
                   }
 }
